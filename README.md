@@ -14,4 +14,4 @@ Essential List of Thunderbird Resources
 - essential in order to do Google Calendar account 
 - don't forget to add your Google Account, like so:
 
-[Imgur](http://i.imgur.com/4V7kBom.png)
+![Imgur](http://i.imgur.com/4V7kBom.png)
