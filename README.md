@@ -12,3 +12,6 @@ Essential List of Thunderbird Resources
 
 ### Provider for Google Calendar [link](https://addons.mozilla.org/en-US/thunderbird/addon/provider-for-google-calendar/)
 - essential in order to do Google Calendar account 
+- don't forget to add your Google Account, like so:
+
+[Imgur](http://i.imgur.com/4V7kBom.png)
